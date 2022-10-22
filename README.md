@@ -55,7 +55,7 @@
 * Lección 5:
   * > [Unit 5 - User Interface](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Leccion5_U2)
   * > [Challenge 5 - Whack-a-Food](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Challenge5_Leccion5_U2)
-  * > VIDEO Challenge 5 - Whack-a-Food
+  * > [VIDEO Challenge 5 - Whack-a-Food](https://drive.google.com/file/d/1PDiTUTLEI91MZTCCn83S1HrLza7mY6q_/view?usp=sharing)
   * > [Lab 5 - Swap out your Assets](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Lab5_Leccion5_U2)
   * > [Quiz 5](https://drive.google.com/file/d/11yLi6w3UlNj7Rba8lWksLoMbeZGCPITY/view?usp=sharing)
   * > [Quiz 5 Perfil](https://drive.google.com/file/d/1I_O_m8cHudlaijhOWEDF6c8Dsezv1ns6/view?usp=sharing)
