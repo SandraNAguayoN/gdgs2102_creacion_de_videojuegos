@@ -1,6 +1,6 @@
 # Creacion de Videojuegos
 <p align="center">
-    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/master/img/wallpaper.webp" alt="Logo" width=800 height=auto>
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/wallpaper.webp" alt="Logo" width=800 height=auto>
   </p>
 </p>
 
