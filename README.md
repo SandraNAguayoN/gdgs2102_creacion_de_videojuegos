@@ -41,7 +41,7 @@
 * Lección 3:
   * > [Unit 3 - Sound and Effects](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Leccion3_U2)
   * > [Challenge 3 - Balloons, Bombs, & Booleans](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Challenge3_Leccion3_U2)
-  * > VIDEO Challenge 3 - Balloons, Bombs, & Booleans
+  * > [VIDEO Challenge 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1gxvOwceXA2R01EIqMUl0zqqIQs1Ual4u/view?usp=sharing)
   * > [Lab 3 - Player Control](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Lab3_Leccion3_U2)
   * > [Quiz 3](https://drive.google.com/file/d/1zI7WP-7qsBF8djkG1qKnJXP27vwDkxsT/view?usp=sharing)
   * > [Quiz 3 Perfil](https://drive.google.com/file/d/1lGrEyJnUJARG4N7bVVZB7QlQjlF1L-Lg/view?usp=sharing)
