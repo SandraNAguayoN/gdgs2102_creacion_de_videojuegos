@@ -26,7 +26,7 @@
 ## Código Fuente
 * Lección 1:
   * > [Unit 1 - Player Control](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/master/Leccion1_U1)
-  * > [Challenge 1 - Plane Programming](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/master/Challenge1_Leccion1_U1)
+  * > [Challenge 1 - Plane Programming](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Challenge1_Leccion1_U1)
   * > [VIDEO Challenge 1 - Plane Programming Minuto: 00:00-11:53](https://drive.google.com/drive/folders/1vH5zMZLEHAH34E31FUxOEu76fYDgh8ln)
   * > [Lab 1 - Project Design Document](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/master/Lab1_Leccion1_U1)
   * > [Quiz 1](https://drive.google.com/file/d/1bf2LuYpJ2OGdyrws7RVGbuC6HUcVplQK/view?usp=sharing)
