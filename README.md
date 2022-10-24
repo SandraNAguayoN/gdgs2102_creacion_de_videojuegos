@@ -60,7 +60,8 @@
   * > [Quiz 5](https://drive.google.com/file/d/11yLi6w3UlNj7Rba8lWksLoMbeZGCPITY/view?usp=sharing)
   * > [Quiz 5 Perfil](https://drive.google.com/file/d/1I_O_m8cHudlaijhOWEDF6c8Dsezv1ns6/view?usp=sharing)
 
-* VideoJuego
+
+## VideoJuego
 
 ## Autor
 Aguayo Nuñez Sandra Nohelia
