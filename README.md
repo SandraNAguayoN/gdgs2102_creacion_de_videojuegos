@@ -14,7 +14,7 @@
 
 
 ## Introducción
-- Nombre del proyecto
+- Nombre del proyecto - 
 - Objetivo.
 - Plataforma, Género, Clasificación, Personajes, Escenario.
 - Historia
