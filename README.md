@@ -81,7 +81,10 @@
     - Choose level difficulty
         - ![choose-difficulty](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/LevelDifficultyWindow.png)
     - Game over
-        - ![game-over](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow.png)
+        - ![game-over](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow_v1.png)
+    - My Scores (historial de puntuaciones)
+        - ![my-scores](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/MyScoresWindow.png)
+        
 - Plan de creación de VideoJuego.
     - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa 
 
