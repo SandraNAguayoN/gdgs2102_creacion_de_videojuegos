@@ -37,6 +37,9 @@
         - Obstaculos Nivel 1 humanos.
         - Obstaculos Nivel 2 naves espaciales y meteoritos.
         - Sonidos al colisionar con algún obstaculo, perder el juego, recolectar un powerup, al disparar, al recolectar puntos, en general durante el juego activo hará musica de fondo con un estilo futurista.
+        - Efecto de explosión al colisionar con un obstaculo, efecto de chispa al obtener powerup.
+        - Guardará la puntuación del jugador y en "My scores" mostrará el historial de las puntuaciones del jugador.
+        - Al terminar el juego (Game Over) mostrará que puntaje obtuvo y cual es el mejor puntaje (Best score) que ha tenido de todas las partidas que ha jugado.
 - Historia: Un alinigena llamado Ali se encuentra atrapado en la tierra, deberá cruzar el largo del bosque para encontrar su nave mientras sus enemigos los humanos lo persiguen para hacer pruebas cientificas con su cuerpo, una vez que recupere su nave podrá volver al espacio, pero incluso en el espacio sus enemigos acechan, deberá escapar de estos para poder volver a casa que se encuentra en otra lejana galaxia.
 - Personajes:
     - Jugador principal "Ali" (un alienigena).
