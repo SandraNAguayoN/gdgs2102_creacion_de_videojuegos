@@ -32,6 +32,7 @@
         - Terminar el recorrido del nivel sin haber muerto.
         - Recolectar cierta cantidad de puntos objetivo para pasar al siguiente nivel.
         - Esquivar a los enemigos para no perder vidas.
+        - Los puntos se obtienen al recolectar objetos en el escenario.
         - Al chocar con el enemigo, se reduce 1 vida.
         - Al perder las 3 vidas el jugador muere (pierde).
     - Nivel 2
