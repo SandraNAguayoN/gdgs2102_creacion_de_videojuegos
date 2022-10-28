@@ -56,7 +56,9 @@
         - Al perder las 3 vidas el jugador muere (pierde).
         - Al recolectar espera P se activará el powerup de Poder que hará los disparos más grandes y rápidos.
         - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
-- Pantallas de Juego
+- Pantallas de Juego.
+    - Start game window
+    ![start-game](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 - Plan de creación de VideoJuego.
     - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa 
 
