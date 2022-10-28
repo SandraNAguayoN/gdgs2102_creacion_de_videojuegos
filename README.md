@@ -95,5 +95,9 @@
 
 ## Autor
 Aguayo Nuñez Sandra Nohelia
+Godínez Torres Juan Ramiro
+
+## Copyright
+Derechos Reservados 2022
 
 
