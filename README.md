@@ -58,15 +58,15 @@
         - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
 - Pantallas de Juego.
     - Start game window
-    ![start-game](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/StartGameWindow.png)
+    - ![start-game](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/StartGameWindow.png)
     - Scene level 1
-    ![scene-level-1](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel1.png)
+    - ![scene-level-1](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel1.png)
     - Choose level
-    ![choose-level](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/ChooseLevelWindow.png)
+    - ![choose-level](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/ChooseLevelWindow.png)
     - Choose level difficulty
-    ![choose-difficulty](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/LevelDifficultyWindow.png)
+    - ![choose-difficulty](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/LevelDifficultyWindow.png)
     - Game over
-    ![game-over](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow.png)
+    - ![game-over](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow.png)
 - Plan de creación de VideoJuego.
     - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa 
 
