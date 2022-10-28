@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/wallpaper.webp" alt="Logo" width=800 height=auto>
       <p align="center">
-    Contenido de proyecto de Videojuego 3D
+    Contenido sbre la Creación de Videojuegos y proyecto de Videojuego 3D
     <br>
     <a href="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/issues/new?template=bug.md">Report bug</a>
     ·
