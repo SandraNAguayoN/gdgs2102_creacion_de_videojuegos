@@ -28,9 +28,16 @@
     - Humanos (enemigos nivel 1).
     - Naves espaciales (enemigos nivel 2).
 - Reglas de Juego.
-    - Terminar el recorrido del nivel sin haber muerto.
-    - Recolectar cierta cantidad de puntos.
-    - Esquivar a los enemigos para no perder vidas.
+    - Nivel 1
+        - Terminar el recorrido del nivel sin haber muerto.
+        - Recolectar cierta cantidad de puntos objetivo para pasar al siguiente nivel.
+        - Esquivar a los enemigos para no perder vidas.
+        - Al chocar con el enemigo, se reduce 1 vida.
+    - Nivel 2
+        - Recolectar los puntos objetivo sin haber muerto.
+        - Recolectar los puntos objetivo antes de que termine el tiempo.
+        - Esquivar disparos de los enemigos para no perder vidas.
+        - Vencer a los enemigos para obtener puntos.
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
 
