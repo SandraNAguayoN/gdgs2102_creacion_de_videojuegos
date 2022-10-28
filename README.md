@@ -33,11 +33,14 @@
         - Recolectar cierta cantidad de puntos objetivo para pasar al siguiente nivel.
         - Esquivar a los enemigos para no perder vidas.
         - Al chocar con el enemigo, se reduce 1 vida.
+        - Al perder las 3 vidas el jugador muere (pierde).
     - Nivel 2
         - Recolectar los puntos objetivo sin haber muerto.
         - Recolectar los puntos objetivo antes de que termine el tiempo.
         - Esquivar disparos de los enemigos para no perder vidas.
+        - Al ser disparado por un enemigo se reduce 1 vida.
         - Vencer a los enemigos para obtener puntos.
+        - Al perder las 3 vidas el jugador muere (pierde).
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
 
