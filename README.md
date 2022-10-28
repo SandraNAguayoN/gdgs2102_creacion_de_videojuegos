@@ -61,6 +61,8 @@
         - ![start-game](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/StartGameWindow.png)
     - Scene level 1
         - ![scene-level-1](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel1.png)
+    - Scene level 1
+        - ![scene-level-2](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel2.png)
     - Choose level
         - ![choose-level](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/ChooseLevelWindow.png)
     - Choose level difficulty
