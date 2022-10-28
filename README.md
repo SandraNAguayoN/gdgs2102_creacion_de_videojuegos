@@ -51,6 +51,7 @@
         - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
+    - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa 
 
 ## Código Fuente
 * Lección 1:
