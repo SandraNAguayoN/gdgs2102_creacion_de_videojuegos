@@ -23,7 +23,10 @@
     - Personajes: Jugador principal "Ali" (un alienigena), Humanos (enemigos nivel 1), Naves espaciales (enemigos nivel 2).
     - Escenario: Bosque (nivel 1), Espacio exterior (nivel 2).
 - Historia: Un alinigena llamado Ali se encuentra atrapado en la tierra, deberá cruzar el largo del bosque para encontrar su nave mientras sus enemigos los humanos lo persiguen para hacer pruebas cientificas con su cuerpo, una vez que recupere su nave podrá volver al espacio, pero incluso en el espacio sus enemigos acechan, deberá escapar de estos para poder volver a casa que se encuentra en otra lejana galaxia.
-- Personajes. Jugador principal "Ali" (un alienigena), Humanos (enemigos nivel 1), Naves espaciales (enemigos nivel 2).
+- Personajes:
+    - Jugador principal "Ali" (un alienigena).
+    - Humanos (enemigos nivel 1).
+    - Naves espaciales (enemigos nivel 2).
 - Reglas de Juego.
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
