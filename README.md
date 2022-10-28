@@ -26,7 +26,7 @@
 - Plataforma, Género, Clasificación, Personajes, Escenario.
     - Plataforma: PC Windows.
     - Género: Aventura, Space shooter.
-    - Clasificación: 12 años en adelante.
+    - Clasificación: Clasificación “B”: Contenido para adolescente a partir de 12 años.
     - Personajes: 
         - Jugador principal "Ali" (un alienigena).
         - Humanos (enemigos nivel 1).
