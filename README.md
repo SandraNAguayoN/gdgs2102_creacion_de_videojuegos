@@ -42,6 +42,7 @@
 - Reglas de Juego.
     - Nivel 1
         - Terminar el recorrido del nivel sin haber muerto.
+        - Recolectar los puntos objetivo antes de que termine el tiempo.
         - Recolectar cierta cantidad de puntos objetivo para pasar al siguiente nivel.
         - Esquivar a los enemigos para no perder vidas.
         - Los puntos se obtienen al recolectar objetos en el escenario.
