@@ -56,6 +56,11 @@
         - Al perder las 3 vidas el jugador muere (pierde).
         - Al recolectar espera P se activará el powerup de Poder que hará los disparos más grandes y rápidos.
         - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
+     - Modos de dificultad
+        - Fácil: Rango de generación de enemigos y obstaculos. 3 vidas. 
+        - Medio: Rango de generación de enemigos y obstaculos en un valor duplicado del modo fácil. Sólo 2 vidas.
+        - Difícil: Rango de generación de enemigos y obstaculos en un valor duplicado del modo medio. Sólo 1 vida.
+        - Aún no se define el tiempo contrarreloj pero será estándar para los 3 modos de dificultad.
 - Pantallas de Juego.
     - Start game window
         - ![start-game](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/StartGameWindow.png)
