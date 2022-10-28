@@ -58,7 +58,7 @@
         - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
 - Pantallas de Juego.
     - Start game window
-    ![start-game](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+    ![start-game](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/StartGameWindow.png)
 - Plan de creación de VideoJuego.
     - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa 
 
