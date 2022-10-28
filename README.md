@@ -14,7 +14,7 @@
 
 
 ## Introducción
-- Nombre del proyecto - Ali-en casa
+- Nombre del proyecto: Ali-en casa
 - Objetivo. Lograr escapar de la tierra y  el espacio exterior esquivando a todos los enemigos que ataquen.
 - Plataforma, Género, Clasificación, Personajes, Escenario.
     - Plataforma: PC Windows.
