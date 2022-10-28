@@ -10,7 +10,7 @@
   </p>
 </p>
 
-## GDGS2102-E
+### GDGS2102-E
 
 ## Contenido
 - [Introducción](#introducción)
