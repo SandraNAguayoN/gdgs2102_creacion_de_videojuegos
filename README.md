@@ -4,9 +4,9 @@
       <p align="center">
     Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/issues/new?template=bug.md">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
 
