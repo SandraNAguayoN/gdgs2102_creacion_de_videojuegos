@@ -42,6 +42,8 @@
         - Al ser disparado por un enemigo se reduce 1 vida.
         - Vencer a los enemigos para obtener puntos.
         - Al perder las 3 vidas el jugador muere (pierde).
+        - Al recolectar espera P se activará el powerup de Poder que hará los disparos más grandes y rápidos.
+        - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
 
