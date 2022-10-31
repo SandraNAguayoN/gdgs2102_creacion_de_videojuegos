@@ -24,7 +24,7 @@
 - Nombre del proyecto: Ali-en casa
 - Objetivo. Lograr escapar de la tierra y  el espacio exterior esquivando a todos los enemigos que ataquen.
 - Plataforma, Género, Clasificación, Personajes, Escenario.
-    - Plataforma: PC Windows.
+    - Plataforma: Desktop.
     - Género: Aventura, Space shooter.
     - Clasificación: Clasificación “B”: Contenido para adolescente a partir de 12 años.
     - Personajes: 
