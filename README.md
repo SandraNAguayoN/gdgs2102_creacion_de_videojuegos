@@ -1,27 +1,92 @@
 # Creacion de Videojuegos
 <p align="center">
     <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/wallpaper.webp" alt="Logo" width=800 height=auto>
+      <p align="center">
+    Contenido sobre la Creación de Videojuegos y proyecto de Videojuego 3D.
+    <br>
+    <a href="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/issues/new?template=bug.md">Report bug</a>
+    ·
+    <a href="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
 
-## GDGS2102-E
+### GDGS2102-E
 
 ## Contenido
 - [Introducción](#introducción)
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
+- [Copyright](#copyright)
 
 
 ## Introducción
-- Nombre del proyecto
-- Objetivo.
+- Nombre del proyecto: Ali-en casa
+- Objetivo. Lograr escapar de la tierra y  el espacio exterior esquivando a todos los enemigos que ataquen.
 - Plataforma, Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
+    - Plataforma: Desktop.
+    - Género: Aventura, Space shooter.
+    - Clasificación: Clasificación “B”: Contenido para adolescente a partir de 12 años.
+    - Personajes: 
+        - Jugador principal "Ali" (un alienigena).
+        - Humanos (enemigos nivel 1).
+        - Naves espaciales (enemigos nivel 2).
+    - Escenario: 
+        - Bosque (nivel 1).
+        - Espacio exterior (nivel 2).
+        - Obstaculos Nivel 1 humanos.
+        - Obstaculos Nivel 2 naves espaciales y meteoritos.
+        - Sonidos al colisionar con algún obstaculo, perder el juego, recolectar un powerup, al disparar, al recolectar puntos, en general durante el juego activo hará musica de fondo con un estilo futurista.
+        - Efecto de explosión al colisionar con un obstaculo, efecto de chispa al obtener powerup.
+        - El jugador podrá introducir su nombre para poder guardar sus puntuaciones.
+        - Guardará la puntuación del jugador y en "My scores" mostrará el historial de las puntuaciones del jugador.
+        - Al terminar el juego (Game Over) mostrará que puntaje obtuvo y cual es el mejor puntaje (Best score) que ha tenido de todas las partidas que ha jugado.
+- Historia: Un alinigena llamado Ali se encuentra atrapado en la tierra, deberá cruzar el largo del bosque para encontrar su nave mientras sus enemigos los humanos lo persiguen para hacer pruebas cientificas con su cuerpo, una vez que recupere su nave podrá volver al espacio, pero incluso en el espacio sus enemigos acechan, deberá escapar de estos para poder volver a casa que se encuentra en otra lejana galaxia.
+- Personajes:
+    - Jugador principal "Ali" (un alienigena).
+    - Humanos (enemigos nivel 1).
+    - Naves espaciales (enemigos nivel 2).
 - Reglas de Juego.
-- Pantallas de Juego
+    - Nivel 1
+        - Terminar el recorrido del nivel sin haber muerto.
+        - Recolectar los puntos objetivo antes de que termine el tiempo.
+        - Recolectar cierta cantidad de puntos objetivo para pasar al siguiente nivel.
+        - Esquivar a los enemigos para no perder vidas.
+        - Los puntos se obtienen al recolectar objetos en el escenario.
+        - Al chocar con el enemigo, se reduce 1 vida.
+        - Al perder las 3 vidas el jugador muere (pierde).
+    - Nivel 2
+        - Recolectar los puntos objetivo sin haber muerto.
+        - Recolectar los puntos objetivo antes de que termine el tiempo.
+        - Esquivar disparos de los enemigos para no perder vidas.
+        - Al ser disparado por un enemigo se reduce 1 vida.
+        - Vencer a los enemigos para obtener puntos.
+        - Al perder las 3 vidas el jugador muere (pierde).
+        - Al recolectar espera P se activará el powerup de Poder que hará los disparos más grandes y rápidos.
+        - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
+     - Modos de dificultad
+        - Fácil: Rango de generación de enemigos y obstaculos. 3 vidas. 
+        - Medio: Rango de generación de enemigos y obstaculos en un valor duplicado del modo fácil. Sólo 2 vidas.
+        - Difícil: Rango de generación de enemigos y obstaculos en un valor duplicado del modo medio. Sólo 1 vida.
+        - Aún no se define el tiempo contrarreloj pero será estándar para los 3 modos de dificultad.
+- Pantallas de Juego.
+    - Start game window
+        - ![start-game](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/StartGameWindow.png)
+    - Scene level 1
+        - ![scene-level-1](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel1.png)
+    - Scene level 2
+        - ![scene-level-2](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel2.png)
+    - Choose level
+        - ![choose-level](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/ChooseLevelWindow.png)
+    - Choose level difficulty
+        - ![choose-difficulty](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/LevelDifficultyWindow.png)
+    - Game over
+        - ![game-over](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow_v1.png)
+    - My Scores (historial de puntuaciones)
+        - ![my-scores](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/MyScoresWindow.png)
+        
 - Plan de creación de VideoJuego.
+    - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa 
 
 ## Código Fuente
 * Lección 1:
@@ -60,9 +125,14 @@
   * > [Quiz 5](https://drive.google.com/file/d/11yLi6w3UlNj7Rba8lWksLoMbeZGCPITY/view?usp=sharing)
   * > [Quiz 5 Perfil](https://drive.google.com/file/d/1I_O_m8cHudlaijhOWEDF6c8Dsezv1ns6/view?usp=sharing)
 
-* VideoJuego
 
-## Autor
-Aguayo Nuñez Sandra Nohelia
+## VideoJuego
+
+## Autores
+Aguayo Nuñez Sandra Nohelia & Godínez Torres Juan Ramiro
+
+## Copyright
+Derechos Reservados 2022
+
 
 
