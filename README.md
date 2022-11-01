@@ -111,12 +111,12 @@
   * > [Quiz 3](https://drive.google.com/file/d/1zI7WP-7qsBF8djkG1qKnJXP27vwDkxsT/view?usp=sharing)
   * > [Quiz 3 Perfil](https://drive.google.com/file/d/1lGrEyJnUJARG4N7bVVZB7QlQjlF1L-Lg/view?usp=sharing)
 * Lección 4:
-  * > Unit 4 - Gameplay Mechanics
-  * > Challenge 4 - Soccer Scripting
-  * > VIDEO Challenge 4 - Soccer Scripting
+  * > [Unit 4 - Gameplay Mechanics](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Leccion4_U2)
+  * > [Challenge 4 - Soccer Scripting](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Challenge4_Leccion4_U2)
+  * > [VIDEO Challenge 4 - Soccer Scripting](https://drive.google.com/file/d/1ArhXwDDNB0KO5NpJ5NTPkZyz__yYtPay/view?usp=share_link)
   * > [Lab 4 - Basic Gameplay](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Lab4_Leccion4_U2)
-  * > Quiz 4
-  * > Quiz 4 Perfil
+  * > [Quiz 4](https://drive.google.com/file/d/1zx7u1PZVBFZhCfwNHYLBYT46CC7L-_Aa/view?usp=share_link)
+  * > [Quiz 4 Perfil](https://drive.google.com/file/d/1W3eJEySZOPHP9v9oNsC1ILn58cSQIhcY/view?usp=share_link)
 * Lección 5:
   * > [Unit 5 - User Interface](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Leccion5_U2)
   * > [Challenge 5 - Whack-a-Food](https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/tree/main/Challenge5_Leccion5_U2)
