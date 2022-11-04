@@ -22,7 +22,7 @@
 
 ## Introducción
 - Nombre del proyecto: Ali-en casa
-- Objetivo. Lograr escapar de la tierra y  el espacio exterior esquivando a todos los enemigos que ataquen.
+- Objetivo. Lograr escapar de la tierra y del espacio exterior esquivando a todos los enemigos que ataquen, recolectando los puntos requeridos para que Ali pueda llegar a su hogar en el planeta Marte.
 - Plataforma, Género, Clasificación, Personajes, Escenario.
     - Plataforma: Desktop.
     - Género: Aventura, Space shooter.
