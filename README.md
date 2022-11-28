@@ -137,7 +137,7 @@
     - Se agrego una nave la cual se puede mover usando las flechas del teclado y una imagen de fondo del espacio, también se limito el movimiento de la nave para que no salga del espacio de juego.
    
    Avance 28 noviembre:
-  * > <a href="https://drive.google.com/file/d/1kC4O2cXTv7m0OY7pYyDf_cR5AiQ25MZs/view?ts=638537e9">Versión final</a>
+  * > <a href="https://drive.google.com/drive/folders/16VC6bcLFa4qWZEgB8SSQXHq5PcFfUU1i?usp=sharing">Versión final</a>
    
     
 
