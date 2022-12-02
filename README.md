@@ -138,6 +138,10 @@
    
    Avance 28 noviembre:
   * > <a href="https://drive.google.com/drive/folders/16VC6bcLFa4qWZEgB8SSQXHq5PcFfUU1i?usp=sharing">Versión final</a>
+  
+  
+ Despliegue en la web:
+ * > <a href="https://ramirot.itch.io/ali">Juego</a>
    
     
 
